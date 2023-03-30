@@ -1,0 +1,4 @@
+- model: User
+  data:
+    - id: 1
+      name: long
